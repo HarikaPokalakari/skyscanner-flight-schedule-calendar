@@ -47,6 +47,10 @@ During development, the following versions were used to avoid compatibility issu
 
 If you encounter installation issues, make sure your Node.js and npm versions are compatible with the packages above.
 
+## Screenshot
+
+![Flight Schedule Calendar](screenshot.png)
+
 ---
 
 ## Installation
